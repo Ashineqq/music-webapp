@@ -128,7 +128,6 @@ onMounted(() => {
           <p class=" text-gray-950">{{ item.name }}</p>
           <p class=" line-clamp-1 text-xs">{{ item.song.album.name }}</p>
         </div>
-        <img src="../../../../assets/record.png" alt="" class=" absolute right-0">
       </div>
     </div>
   </van-list>

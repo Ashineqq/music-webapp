@@ -29,8 +29,8 @@ const commentSum = computed(() => {
 })
 
 //显示评论
-const loading = true
-const finished = true
+const loading = ref(true)
+const finished = ref(true)
 
 //进入回复页面
 const comment = useCommentIdStore()
