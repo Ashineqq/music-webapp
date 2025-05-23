@@ -1,0 +1,9 @@
+"filename", "language", "TypeScript", "Vue", "comment", "blank", "total"
+"d:\VSCode\Programs\my-vite-proj01\components.d.ts", "TypeScript", 1, 0, 0, 0, 1
+"d:\VSCode\Programs\my-vite-proj01\src\components\collectToCreate.vue", "Vue", 0, 19, 2, 3, 24
+"d:\VSCode\Programs\my-vite-proj01\src\components\music\music\create.vue", "Vue", 0, 27, 0, 2, 29
+"d:\VSCode\Programs\my-vite-proj01\src\components\newCreate.vue", "Vue", 0, -8, 0, 0, -8
+"d:\VSCode\Programs\my-vite-proj01\src\store\newCreate.ts", "TypeScript", 13, 0, 0, 2, 15
+"d:\VSCode\Programs\my-vite-proj01\src\views\recordMain.vue", "Vue", 0, 11, 0, 2, 13
+"d:\VSCode\Programs\my-vite-proj01\src\views\songList.vue", "Vue", 0, 10, 0, 1, 11
+"Total", "-", 14, 59, 2, 10, 85

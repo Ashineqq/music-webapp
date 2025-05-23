@@ -1,0 +1,11 @@
+"filename", "language", "TypeScript", "XML", "Vue", "comment", "blank", "total"
+"d:\VSCode\Programs\my-vite-proj01\src\Apptest.vue", "Vue", 0, 0, 10, 0, 1, 11
+"d:\VSCode\Programs\my-vite-proj01\src\assets\collect.svg", "XML", 0, 1, 0, 0, 0, 1
+"d:\VSCode\Programs\my-vite-proj01\src\components\collectToCreate.vue", "Vue", 0, 0, 14, 0, 5, 19
+"d:\VSCode\Programs\my-vite-proj01\src\components\music\music\collection.vue", "Vue", 0, 0, 67, 0, 5, 72
+"d:\VSCode\Programs\my-vite-proj01\src\components\music\music\create.vue", "Vue", 0, 0, 7, 0, 1, 8
+"d:\VSCode\Programs\my-vite-proj01\src\store\collect.ts", "TypeScript", 12, 0, 0, 0, 2, 14
+"d:\VSCode\Programs\my-vite-proj01\src\store\songList.ts", "TypeScript", 8, 0, 0, 0, 1, 9
+"d:\VSCode\Programs\my-vite-proj01\src\views\layout\recommend\music\selected.vue", "Vue", 0, 0, 17, 0, 2, 19
+"d:\VSCode\Programs\my-vite-proj01\src\views\songList.vue", "Vue", 0, 0, 28, 0, 6, 34
+"Total", "-", 20, 1, 143, 0, 23, 187

@@ -1,0 +1,40 @@
+Date : 2025-05-22 10:50:44
+Directory : d:\VSCode\Programs\my-vite-proj01
+Total : 7 files,  73 codes, 2 comments, 10 blanks, all 85 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |          5 |         59 |          2 |          8 |         69 |
+| TypeScript |          2 |         14 |          0 |          2 |         16 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |          7 |         73 |          2 |         10 |         85 |
+| . (Files)                                                               |          1 |          1 |          0 |          0 |          1 |
+| src                                                                     |          6 |         72 |          2 |         10 |         84 |
+| src\components                                                          |          3 |         38 |          2 |          5 |         45 |
+| src\components (Files)                                                  |          2 |         11 |          2 |          3 |         16 |
+| src\components\music                                                    |          1 |         27 |          0 |          2 |         29 |
+| src\components\music\music                                              |          1 |         27 |          0 |          2 |         29 |
+| src\store                                                               |          1 |         13 |          0 |          2 |         15 |
+| src\views                                                               |          2 |         21 |          0 |          3 |         24 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\VSCode\Programs\my-vite-proj01\components.d.ts                       | TypeScript |          1 |          0 |          0 |          1 |
+| d:\VSCode\Programs\my-vite-proj01\src\components\collectToCreate.vue    | Vue        |         19 |          2 |          3 |         24 |
+| d:\VSCode\Programs\my-vite-proj01\src\components\music\music\create.vue | Vue        |         27 |          0 |          2 |         29 |
+| d:\VSCode\Programs\my-vite-proj01\src\components\newCreate.vue          | Vue        |         -8 |          0 |          0 |         -8 |
+| d:\VSCode\Programs\my-vite-proj01\src\store\newCreate.ts                | TypeScript |         13 |          0 |          2 |         15 |
+| d:\VSCode\Programs\my-vite-proj01\src\views\recordMain.vue              | Vue        |         11 |          0 |          2 |         13 |
+| d:\VSCode\Programs\my-vite-proj01\src\views\songList.vue                | Vue        |         10 |          0 |          1 |         11 |
+| Total                                                                   |            |         73 |          2 |         10 |         85 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
