@@ -8,7 +8,7 @@ import newCreate from '../../components/newCreate.vue';
 <template>
 <div class="min-h-screen text-gray-500 w-screen flex flex-col">
   <!-- 内容区域 -->
-  <div class="pb-14">
+  <div>
     <router-view></router-view>
   </div>
   <!-- 播放页面 -->

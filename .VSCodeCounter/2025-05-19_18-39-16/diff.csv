@@ -1,8 +1,0 @@
-"filename", "language", "TypeScript", "Vue", "XML", "comment", "blank", "total"
-"d:\VSCode\Programs\my-vite-proj01\components.d.ts", "TypeScript", 1, 0, 0, 0, 0, 1
-"d:\VSCode\Programs\my-vite-proj01\src\api\reply.ts", "TypeScript", 10, 0, 0, 0, 1, 11
-"d:\VSCode\Programs\my-vite-proj01\src\assets\good.svg", "XML", 0, 0, 1, 0, 0, 1
-"d:\VSCode\Programs\my-vite-proj01\src\components\reply.vue", "Vue", 0, 88, 0, 9, 9, 106
-"d:\VSCode\Programs\my-vite-proj01\src\store\commentId.ts", "TypeScript", 12, 0, 0, 0, 1, 13
-"d:\VSCode\Programs\my-vite-proj01\src\views\comment.vue", "Vue", 0, 21, 0, 2, 1, 24
-"Total", "-", 23, 109, 1, 11, 12, 156

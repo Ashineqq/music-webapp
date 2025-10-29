@@ -21,7 +21,7 @@
     <img class=" w-[30px]" src="../../../assets/search.svg" alt="">
   </div>
 
-  <div class=" pt-[34px]">
+  <div class="mt-[34px]">
     <router-view></router-view>
   </div>
 </div>

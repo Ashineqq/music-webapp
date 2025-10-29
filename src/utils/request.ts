@@ -2,11 +2,11 @@ import axios from 'axios'
 
 const request = axios.create({
   baseURL: 'https://1358253694-fysjr77s9h.ap-guangzhou.tencentscf.com',
-  timeout: 2000,
+  timeout: 5000,
   // headers: {'X-Custom-Header': 'foobar'}
 })
 
-// 添加请求拦截器
+// 添加请求拦截器 
 request.interceptors.request.use((config) => {
     // 在发送请求之前做些什么
     return config;
