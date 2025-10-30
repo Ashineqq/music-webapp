@@ -5,10 +5,10 @@
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
   ],
-  "compilerOptions":{
+  "compilerOptions": {
     "target": "ESNext",
     "module": "ESNext",
-    "types": ["node","vite/client", "vue"],
+    "types": ["node", "vite/client", "vue"],
     "moduleResolution": "bundler",
     "strict": true,
     "esModuleInterop": true,
@@ -16,9 +16,7 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
-    },
+      "@/*": ["./src/*"]
+    }
   }
 }

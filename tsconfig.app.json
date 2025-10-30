@@ -12,7 +12,12 @@
     "noUncheckedSideEffectImports": true,
     "composite": true,
     "noEmit": true
-    
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx","src/**/*", "src/**/*.vue", "src/utils/request.ts"]
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*",
+    "src/**/*.vue",
+    "src/utils/request.ts"
+  ]
 }

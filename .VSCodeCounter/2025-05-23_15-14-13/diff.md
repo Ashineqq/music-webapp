@@ -4,23 +4,25 @@ Date : 2025-05-23 15:14:13
 
 Directory d:\\VSCode\\Programs\\my-vite-proj01
 
-Total : 4 files,  84 codes, 2 comments, 5 blanks, all 91 lines
+Total : 4 files, 84 codes, 2 comments, 5 blanks, all 91 lines
 
 [Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
 
 ## Languages
-| language | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| Vue | 2 | 56 | 1 | 2 | 59 |
-| TypeScript | 2 | 28 | 1 | 3 | 32 |
+
+| language   | files | code | comment | blank | total |
+| :--------- | ----: | ---: | ------: | ----: | ----: |
+| Vue        |     2 |   56 |       1 |     2 |    59 |
+| TypeScript |     2 |   28 |       1 |     3 |    32 |
 
 ## Directories
-| path | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| . | 4 | 84 | 2 | 5 | 91 |
-| src | 4 | 84 | 2 | 5 | 91 |
-| src\\api | 1 | 11 | 0 | 1 | 12 |
-| src\\router | 1 | 17 | 1 | 2 | 20 |
-| src\\views | 2 | 56 | 1 | 2 | 59 |
+
+| path        | files | code | comment | blank | total |
+| :---------- | ----: | ---: | ------: | ----: | ----: |
+| .           |     4 |   84 |       2 |     5 |    91 |
+| src         |     4 |   84 |       2 |     5 |    91 |
+| src\\api    |     1 |   11 |       0 |     1 |    12 |
+| src\\router |     1 |   17 |       1 |     2 |    20 |
+| src\\views  |     2 |   56 |       1 |     2 |    59 |
 
 [Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
